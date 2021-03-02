@@ -1,0 +1,13 @@
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.exe
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.deps.json
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.runtimeconfig.json
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.runtimeconfig.dev.json
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.dll
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\bin\Debug\netcoreapp3.1\CSC2015Week01.pdb
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.csprojAssemblyReference.cache
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.AssemblyInfoInputs.cache
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.AssemblyInfo.cs
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.csproj.CoreCompileInputs.cache
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.dll
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.pdb
+C:\Users\tubas\Desktop\IT Stuff\MSSA Notebook\csc205\CSC2015Week01\CSC2015Week01\obj\Debug\netcoreapp3.1\CSC2015Week01.genruntimeconfig.cache
